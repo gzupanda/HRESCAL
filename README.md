@@ -1,3 +1,12 @@
+ HRESCAL
+ =======
+ This model is based on the factorization-based knowledge graph completion model RESCAL. Our model is mainly about focus on the preprecession. In order to capture multihop 
+ relation features form the data, we introduce Hamming distance.
+ 
+ usage
+ =====
+ Our parameters and code show in the directory of examples and the dataset are in the form of .mat format.
+
 RESCAL
 ======
 
